@@ -1,0 +1,138 @@
+---
+title: "Basic introduction to RNA-Seq"
+author: "Werner Smidt"
+date: "2019-07-25"
+output: html_document
+---
+
+
+# Introduction
+
+
+## History of gene expression analysis
+
+
+## Why?
+
+
+## Modern methods
+
+### Single gene level expression analysis
+
+### High-throughput methods
+
+# What is RNA-Seq?
+
+## The technology
+
+## The caveats
+
+## The promise and sometimes the lack thereof
+
+
+
+
+
+
+# Quantification of gene expression
+
+
+## Microarray
+
+## Alignment based methods
+
+### HISAT/StringTie
+
+### RSEM
+
+## Pseudoalignment based methods
+
+
+### Kallisto and Salmon
+
+
+
+# Determining differentially expressed genes
+
+
+## An overview of the packages
+
+### DESeq2
+
+### Sleuth
+
+### Limma
+
+### edgeR
+
+
+
+## Transcript level vs. gene level
+
+
+
+
+
+
+# A practical overview 
+
+
+## Differences in gene expression of X
+
+### Obtaining reads
+
+### Quantifying
+
+
+
+
+
+
+# Now what?
+
+
+## Enrichment analyses
+
+
+### GO enrichment
+
+
+### Pathway
+
+
+### GSEA
+
+
+# I have an experiment - what do?
+
+
+## What do you want to know? Have a question!
+
+## Setting up your experiment
+
+## Prior expectation of what you will get
+
+## P-values and effect sizes and actual effects
+
+
+
+
+# Other cool topics
+
+
+## Single-cell RNA-Seq
+
+## WGCNA 
+
+
+
+
+
+
+
+# Useful reading
+
+
+
+
+
